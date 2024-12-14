@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+*.venv
+
+# PySpark
+*.log
+*.csv
+*.out
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Python Packaging
+dist/
+build/
+*.egg-info/
+*.eggs/
+
+# Testing
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+
+# Environment Variables
+.env
